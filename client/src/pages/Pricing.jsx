@@ -6,10 +6,10 @@ export default function Pricing() {
   return (
     <section className="relative min-h-screen overflow-hidden text-lightGray">
 
-      {/* 🌌 ATMOSPHERIC BACKGROUND (ONLY HERE) */}
+      {/*Atmos Bg*/}
       <div className="absolute inset-0 -z-10 hero-bg" />
 
-      {/*<Navbar />*/}
+      <Navbar />
 
       <main className="relative z-10 flex items-center justify-center min-h-[90vh] px-6">
         <PricingCard />
