@@ -2,7 +2,7 @@ export default function Navbar() {
   return (
     <nav className="flex items-center justify-between px-8 py-5 border-b border-lightGray/10">
       <h1 className="text-accent text-xl font-semibold tracking-tight">
-        Essentinel
+        Ekzeek
       </h1>
 
       <div className="flex gap-4">
